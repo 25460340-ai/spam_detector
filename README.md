@@ -1,3 +1,4 @@
+
 Que es la practica y que aprendimos
 La practica crea un detector de spam que revisa mensajes y dice si son seguros o no
 Aprendimos a usar python git github y a trabajar con archivos modulos y librerias
