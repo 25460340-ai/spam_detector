@@ -1,3 +1,4 @@
+
 import tkinter as tk
 import spam_detector  # Importar nuestro módulo
 
